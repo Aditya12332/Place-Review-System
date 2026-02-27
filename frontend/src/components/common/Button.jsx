@@ -31,7 +31,7 @@ const Button = ({
     md: 'btn-md',
     lg: 'btn-lg',
   };
-  
+
   return (
     <button
       type={type}
